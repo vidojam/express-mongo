@@ -15,4 +15,4 @@ Creating an express framework, that is connecting to MongoDB .
 
 [See Express] (https://expressjs.com/) 
 
-![screen shot] ( https://i.ytimg.com/vi/0wUDK-Ul--g/maxresdefault.jpg)
+![screen shot] ( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLINq2_zux97UY4gLQ--008WSYBpAc21fDig&usqp=CAU)
