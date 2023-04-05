@@ -15,4 +15,4 @@ Creating an express framework, that is connecting to MongoDB .
 
 [See Express] (https://expressjs.com/) 
 
-![screen shot] ( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLINq2_zux97UY4gLQ--008WSYBpAc21fDig&usqp=CAU)
+![screen shot] ( https://lingokids.com/wp-content/uploads/2020/11/20172F092F142F082F172F142Fa5a32a66-9d38-4dc3-9c9b-579c42722d3c2FSnake-Animalsname.png)
